@@ -1,0 +1,64 @@
+.navbar-brand {
+    font-family: Pacifico;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.navbar-default {
+    border-color: grey;
+    color: #E7E7E7;
+}
+.navbarNavAltMarkup{
+    color: #E7E7E7;
+
+}
+.parallex-window {
+    min-height: 400px;
+    background: transparent;
+    margin: 20px;
+}
+.window-wrapper {
+    height:400px;
+    background: #E7E7E7;
+}
+.pimg1 {
+    background-image:url(img/lashes1.png);
+    width: 100%;
+    min-height: 250px;
+    position: relative;
+    opacity: 0.80;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#Lalabrand {
+    font-family: Pacifico;
+    font-size: 80px;
+
+
+}
+#London {
+    font-family: Merienda;
+    font-size: 30px;
+    letter-spacing: 30px;
+    margin bottom: 10px;
+}
+.detail {
+
+}
+.quo {
+    font-family:Raleway; 
+    font-size: 40px;
+}
+.info1 {
+    margin:35px 0px;
+    font-family:Raleway; 
+}
+.page-footer {
+    background-color: #DCDCDC;
+    color:black;
+    font-family: Raleway;
+}
+.fot {
+    padding:30px;
+}

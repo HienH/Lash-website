@@ -1,0 +1,31 @@
+.navbar-brand {
+    font-family: Pacifico;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.navbar-default {
+    border-color: grey;
+    color: #E7E7E7;
+}
+.navbarNavAltMarkup{
+    color: #E7E7E7;
+
+}
+.box {
+    padding: 30px;
+}
+.lashimages {
+    width: 900px;
+    height:700px;
+}
+.page-footer {
+    margin-top:20px;
+    background-color: #DCDCDC;
+    color:black;
+    font-family: Raleway;
+}
+.fot {
+    padding:30px;
+    
+}
